@@ -1,6 +1,6 @@
 # WRONG: Weighted Relaxed Operation Neural Graph
 
-This repository is a PyTorch implemntation of the paper "WRONG: Weighted Relaxed Operation Neural Graph" by Shang-Ling Hsu and Tien-Chun Cheng. 
+This repository is a PyTorch implemntation of the paper [WRONG: Weighted Relaxed Operation Neural Graph](https://drive.google.com/file/d/1USZzXOYYBTE4F9TfwwFo8k9fL24hY6qg/view?usp=sharing) by Shang-Ling Hsu and Tien-Chun Cheng. 
 
 
 ## Dependencies
